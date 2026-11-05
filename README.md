@@ -3,7 +3,7 @@
 Project Category Code: CMPS (ai)
 
 Title: Developing an Adaptive Wearable AI System for Neurorehabilitation Using Rhythmic Auditory Stimulation
-Presenter: Allie Giacobbe1
+Presenter: Allie Giacobbe
 Mentor: Ashwin Mohan, Ph.D. Computer Science Faculty, IMSA
 
 Abstract/Project Intention:
